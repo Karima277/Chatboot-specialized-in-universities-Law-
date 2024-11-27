@@ -35,7 +35,7 @@ Here’s a preview of the chatbot interface:
 
 ## 📝 How It Works  
 1. **Upload a PDF**  
-   The user can upload any document (e.g., university laws or research papers).  
+   The user can upload any document (by default answers to university laws).  
 2. **Retrieve Relevant Information**  
    Using Cohere AI's embeddings, the most relevant passages are retrieved.  
 3. **Generate Contextual Responses**  
