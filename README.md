@@ -30,7 +30,6 @@ Here’s a preview of the chatbot interface:
 
 ![Chatbot Screenshot](./chatbot_screenshot.png)  
 
-> Note: Replace `./chatbot_screenshot.png` with the actual path or URL of your screenshot.  
 
 ---
 
@@ -54,5 +53,4 @@ Here’s a preview of the chatbot interface:
 ### Steps  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/Karima277/university-law-chatbot.git
-   cd university-law-chatbot
+   git clone https://github.com/Karima277/Chatboot-specialized-in-universities-Law-.git
